@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "comportavr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8864"], "port": 8864 }
+  ]
+}
